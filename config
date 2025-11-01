@@ -1,0 +1,7 @@
+color background white black
+color listnormal color88 black
+color listnormal_unread red black
+color listfocus black red
+color listfocus_unread black red
+color info color88 black
+color article red black

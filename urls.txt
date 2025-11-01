@@ -1,0 +1,330 @@
+https://www.theatlantic.com/feed/all/
+
+100 High-Quality RSS Feeds
+==========================
+
+NEWS & CURRENT AFFAIRS
+----------------------
+
+# Reuters - World News
+http://feeds.reuters.com/Reuters/worldNews
+
+# The Guardian - World News
+https://www.theguardian.com/world/rss
+
+# Al Jazeera - International News
+https://www.aljazeera.com/xml/rss/all.xml
+
+# New York Times - Homepage
+https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+
+# New York Times - World News
+https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+
+# New York Times - Politics
+https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml
+
+# New York Times - Business
+https://rss.nytimes.com/services/xml/rss/nyt/Business.xml
+
+# New York Times - Technology
+https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+
+# Washington Post - World News
+https://feeds.washingtonpost.com/rss/world
+
+# Washington Post - Politics
+https://feeds.washingtonpost.com/rss/politics
+
+# Washington Post - Opinions
+https://feeds.washingtonpost.com/rss/opinions
+
+# NPR - News
+
+# Politico - Politics & Policy
+http://www.politico.com/rss/politicopicks.xml
+
+# USA Today - Top Stories
+http://rssfeeds.usatoday.com/usatoday-NewsTopStories
+
+# Los Angeles Times - News
+https://www.latimes.com/rss2.0.xml
+
+# Wall Street Journal - World News
+https://feeds.a.dj.com/rss/RSSWorldNews.xml
+
+# TIME Magazine - News
+http://time.com/newsfeed/feed/
+
+# Fox News - Latest News
+http://feeds.foxnews.com/foxnews/latest
+
+
+TECHNOLOGY & STARTUPS
+---------------------
+
+# TechCrunch - Tech News & Startups
+http://feeds.feedburner.com/TechCrunch/
+
+# The Verge - Technology & Culture
+https://www.theverge.com/rss/index.xml
+
+# Wired - Technology & Innovation
+
+# Ars Technica - Technology News
+http://feeds.arstechnica.com/arstechnica/index
+
+# Engadget - Consumer Electronics
+https://www.engadget.com/rss.xml
+
+# Mashable - Tech & Digital Culture
+http://mashable.com/feeds/rss/all
+
+# VentureBeat - Tech Business News
+http://venturebeat.com/feed/
+
+# ZDNet - Technology News
+https://www.zdnet.com/news/rss.xml
+
+# CNET - Tech Product News
+https://www.cnet.com/rss/news/
+
+# ExtremeTech - Technology Analysis
+https://www.extremetech.com/feed
+
+# Hacker News - Tech Community
+https://news.ycombinator.com/rss
+
+# MIT Technology Review - Emerging Tech
+https://www.technologyreview.com/feed/
+
+# TechRepublic - IT & Business Tech
+https://www.techrepublic.com/rssfeeds/articles/
+
+# The Register - Enterprise IT News
+https://www.theregister.com/headlines.atom
+
+# AnandTech - Hardware Analysis
+https://www.anandtech.com/rss/
+
+# Tom's Hardware - PC Hardware
+
+# Ghacks - Software & Technology
+https://www.ghacks.net/feed/
+
+# ReadWrite - Future Tech Trends
+https://readwrite.com/feed/
+
+# GeekWire - Tech Startups
+https://www.geekwire.com/feed/
+
+# Silicon Valley Journals - Startup News
+https://siliconvalleyjournals.com/feed
+
+
+BUSINESS & FINANCE
+------------------
+
+# Bloomberg - Financial News
+https://www.bloomberg.com/feed/podcast/etf-report.xml
+
+# Harvard Business Review - Management
+https://feeds.hbr.org/harvardbusiness
+
+# Entrepreneur - Business & Startups
+https://www.entrepreneur.com/latest.rss
+
+# Fast Company - Business Innovation
+https://www.fastcompany.com/latest/rss
+
+# Forbes - Business & Finance
+https://www.forbes.com/real-time/feed2/
+
+# Inc. Magazine - Small Business
+
+# Business Insider - Business News
+https://www.businessinsider.com/rss
+
+# The Economist - Global Economics
+https://www.economist.com/rss
+
+# Financial Times - Finance & Business
+https://www.ft.com/rss/home/us
+
+# Reuters - Business News
+http://feeds.reuters.com/reuters/businessNews
+
+
+SCIENCE & TECHNOLOGY
+--------------------
+
+# NASA - Space & Science News
+https://www.nasa.gov/rss/dyn/breaking_news.rss
+
+# Scientific American - Science News
+https://www.scientificamerican.com/feed/
+
+# Nature - Scientific Research
+https://www.nature.com/nature.rss
+
+# Science Daily - Science News
+https://www.sciencedaily.com/rss/all.xml
+
+# Smithsonian Magazine - Science & History
+https://www.smithsonianmag.com/rss/latest_articles/
+
+# Popular Science - Science & Technology
+https://www.popsci.com/feed/
+
+# New Scientist - Science News
+https://www.newscientist.com/feed/home
+
+# Phys.org - Science & Research
+
+# MIT News - Research & Innovation
+https://news.mit.edu/rss/feed
+
+# Quanta Magazine - Math & Science
+https://www.quantamagazine.org/feed/
+
+
+ARTS & CULTURE
+--------------
+
+# National Geographic - Nature & Culture
+https://www.nationalgeographic.com/pages/topic/latest-stories
+
+# Smithsonian - Arts & Culture
+https://www.smithsonianmag.com/rss/
+
+# The New Yorker - Culture & Commentary
+https://www.newyorker.com/feed/everything
+
+# Literary Hub - Books & Literature
+https://lithub.com/feed/
+
+# Artnet News - Art World News
+https://news.artnet.com/feed
+
+# The Paris Review - Literature
+https://www.theparisreview.org/blog/feed/
+
+# The Marginalian - Arts & Ideas
+https://www.themarginalian.org/feed/
+
+# Aeon - Philosophy & Culture
+https://aeon.co/feed.rss
+
+# Longreads - Long-form Journalism
+https://longreads.com/feed/
+
+# Arts & Letters Daily - Ideas & Culture
+https://www.aldaily.com/feed/
+
+
+SPORTS
+------
+
+# ESPN - Sports News
+https://www.espn.com/espn/rss/news
+
+# BBC Sport - Sports Coverage
+
+# Sports Illustrated - Sports News
+https://www.si.com/rss/si_topstories.rss
+
+# Bleacher Report - Sports News
+https://bleacherreport.com/articles/feed
+
+# The Athletic - Sports Journalism
+https://theathletic.com/feeds/rss/
+
+
+ENTERTAINMENT & POP CULTURE
+---------------------------
+
+# Billboard - Music News
+https://www.billboard.com/feed/
+
+# Variety - Entertainment News
+https://variety.com/feed/
+
+# Hollywood Reporter - Film & TV News
+https://www.hollywoodreporter.com/feed/
+
+# Rolling Stone - Music & Culture
+https://www.rollingstone.com/feed/
+
+# Pitchfork - Music Reviews & News
+https://pitchfork.com/rss/news/
+
+# NME - Music News
+https://www.nme.com/feed
+
+# AV Club - Entertainment Reviews
+
+# Vulture - Pop Culture
+https://www.vulture.com/rss/
+
+# IGN - Gaming & Entertainment
+https://feeds.feedburner.com/ign/all
+
+
+HEALTH & WELLNESS
+-----------------
+
+# WHO - Global Health News
+https://www.who.int/feeds/entity/mediacentre/news/en/rss.xml
+
+# WebMD - Health Information
+https://rssfeeds.webmd.com/rss/rss.aspx?RSSSource=RSS_PUBLIC
+
+# New York Times - Health News
+https://rss.nytimes.com/services/xml/rss/nyt/Health.xml
+
+# Harvard Health - Medical Information
+https://www.health.harvard.edu/blog/feed
+
+# Mayo Clinic - Health News
+https://newsnetwork.mayoclinic.org/feed/
+
+
+TRAVEL
+------
+
+# Lonely Planet - Travel Guides
+https://www.lonelyplanet.com/blog.rss
+
+# Conde Nast Traveler - Luxury Travel
+https://www.cntraveler.com/feed/rss
+
+# Travel + Leisure - Travel News
+https://www.travelandleisure.com/rss
+
+# Nomadic Matt - Budget Travel
+https://www.nomadicmatt.com/feed/
+
+# National Geographic Travel - Travel Stories
+https://www.nationalgeographic.com/travel/rss
+
+
+SPECIALIZED TOPICS
+------------------
+
+# Copyblogger - Content Marketing
+https://copyblogger.com/feed/
+
+# Apartment Therapy - Home & Design
+https://www.apartmenttherapy.com/main.rss
+
+# Lifehacker - Productivity & Life Hacks
+https://lifehacker.com/rss
+
+# Kottke.org - Culture & Commentary
+https://kottke.org/feed/
+
+# Marginal Revolution - Economics Blog
+https://marginalrevolution.com/feed
+
+# Farnam Street - Mental Models & Learning
+https://fs.blog/feed/
