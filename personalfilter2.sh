@@ -167,7 +167,7 @@ fi
 echo "Optimizing database..."
 sqlite3 "$CACHE_DB" "VACUUM;"
 
-echo "Done! Restart Newsboat to see the changes."
+echo "Done!"
 echo ""
 echo "Files created:"
 echo "  Good feeds: $OUTPUT_FILE"
