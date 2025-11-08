@@ -41,11 +41,6 @@ https://feeds.washingtonpost.com/rss/opinions
 
 # NPR - News
 
-# Politico - Politics & Policy
-http://www.politico.com/rss/politicopicks.xml
-
-# USA Today - Top Stories
-http://rssfeeds.usatoday.com/usatoday-NewsTopStories
 
 # Los Angeles Times - News
 https://www.latimes.com/rss2.0.xml
